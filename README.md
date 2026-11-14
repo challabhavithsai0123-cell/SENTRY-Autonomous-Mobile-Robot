@@ -107,7 +107,7 @@ GYRO:0.10,0.07,0.01,YAW:0.45,
 ENC_L:3829,ENC_R:62293
 ```
 
-The ESP32-C3 receives these records and makes the latest telemetry available through its web server.
+The ESP32-C3 receives these records and makes the latest telemetry available through its web server. The example below illustrates the reported fields; actual values depend on the running robot.
 
 ## Current Implementation
 
@@ -147,7 +147,7 @@ The technologies demonstrated in SENTRY are relevant to:
 
 ## Author
 
-> C. Bhavith Sai**
+**C. Bhavith Sai**
 
 B.Tech – Mechatronics Engineering
 
