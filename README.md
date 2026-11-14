@@ -156,3 +156,8 @@ GitHub: [challabhavithsai0123-cell](https://github.com/challabhavithsai0123-cell
 ---
 
 *This repository documents the physical SENTRY robot and its embedded hardware implementation. It is separate from the author's ROS 2 and Gazebo simulation projects.*
+
+
+## Engineering documentation
+
+- [Firmware architecture and source-level review](docs/firmware-architecture.md) — task responsibilities, sensor interfaces, telemetry format and validation priorities.
